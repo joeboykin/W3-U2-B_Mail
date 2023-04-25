@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= https://github.com/joeboykin/W3-U2-B_Mail/blob/96187f4a86eb25e86d479749aecd8720e6ac7c98/B_Mail%20U2.gif title='B_Mail Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 [Kap](https://getkap.co/) for macOS
