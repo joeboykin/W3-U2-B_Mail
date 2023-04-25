@@ -3,9 +3,9 @@ Android Lab 2 | W3-U2 B_Mail
 
 Submitted by: Joseph Boykin
 
-**B_Mail** Allows User to scroll through a list of 10 emails!
+- [x] **B_Mail** Allows User to scroll through a list of 10 emails!
 
-Time spent: **4** hours spent in total
+- [x] Time spent: **4** hours spent in total
 
 ## Required Features
 The following **required** functionality is completed:
